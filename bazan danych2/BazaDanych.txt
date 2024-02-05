@@ -1,0 +1,5 @@
+Galil Izrael IMI 4.5 7.62
+AK47 Rosja Izshmash 4.8 7.62
+An94 Rosja Izshmash 3.5 5.45
+VSK94 Rosja KBITula 2.8 9.39
+SVD Rosja Izshmash 5.1 7.62
